@@ -2,6 +2,10 @@
 Simfoni is an e-commerce store which has products of different categories listed so that user can choose and view its details for shopping.
 
 
+## Home Page :-
+![image](https://github.com/VishalBhuse/simfoni/assets/101569259/2fdda0fc-2df9-4729-89eb-096c1e245dc8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
